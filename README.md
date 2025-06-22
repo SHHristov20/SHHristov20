@@ -4,11 +4,11 @@
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 I'm a high school student with passion for technology. I love diving into the world of backend development. Networking and system administration also grab my interest. Looking forward to exploring more in the tech world!
 
-- 『🎓』Student at **@codingburgas**
+- 『🎓』Recent graduate from **@codingburgas**
 
 - 『📕』 Currently learning: **C++, C#, JavaScript**
 
-- 『📫』 You can reach me at: **me@sstef.me**
+- 『📫』 You can reach me at: **contact@shristov.me**
 
 
 <h2 align="left">Languages:</h2>
