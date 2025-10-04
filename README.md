@@ -2,7 +2,9 @@
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=shhristov20&label=Profile%20views&color=0e75b6&style=flat-square" alt="shhristov20" /> </h1>
 <h2>About Me</h2>
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-I'm a high school student with passion for technology. I love diving into the world of backend development. Networking and system administration also grab my interest. Looking forward to exploring more in the tech world!
+I'm a student with passion for technology. I love diving into the world of backend development. Networking and system administration also grab my interest. Looking forward to exploring more in the tech world!
+
+- 『🎓』Currently studying Computer & Software Engineering at Technical University Sofia
 
 - 『🎓』Recent graduate from **@codingburgas**
 
@@ -26,6 +28,7 @@ I'm a high school student with passion for technology. I love diving into the wo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/entityframeworkcore/entityframeworkcore-original.svg" alt="efcore" width="40" height="40"/>
 </p>
 <hr>
 
